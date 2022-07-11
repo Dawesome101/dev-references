@@ -1,1 +1,1 @@
-[HTML: Responsive Design](./html-rd.md)
+[CSS: Responsive Design](./css-rd.md)
