@@ -1,0 +1,1 @@
+[Applying Color](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
